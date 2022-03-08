@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 ---
 
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)&nbsp;&nbsp;![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)&nbsp;&nbsp;![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)&nbsp;&nbsp;&nbsp;![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 
-![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)&nbsp;&nbsp;![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)&nbsp;&nbsp;&nbsp;![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 
-![html](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html&logoColor=white)&nbsp;&nbsp;![css](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white)
+![html](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html&logoColor=white)&nbsp;&nbsp;&nbsp;![css](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white)
 
 ## ABOUT ME🐾
 
