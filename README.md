@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![html](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html&logoColor=white)&nbsp;&nbsp;&nbsp;![css](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white)
 
-## ABOUT ME🐾
+## ABOUT ME🐾<br/><br/>
 
 
 
