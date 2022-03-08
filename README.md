@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## ABOUT ME🐾<br/><br/>
 
   
-[![naver](https://img.shields.io/badge/naver-1572B6?style=flat-square&logo=naver&logoColor=white&link=mailto:withfavor98@naver.com)](mailto:withfavor98@naver.com)
+<br/>[![naver](https://img.shields.io/badge/naver-1572B6?style=flat-square&logo=naver&logoColor=white&link=mailto:withfavor98@naver.com)](mailto:withfavor98@naver.com)
 
 
 [![velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@hii_log)](https://velog.io/@hii_log)
