@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 
 ## TECH-STACKS🐾
-
-
+<br/>
+<br/>
 ---
-
+<br/>
+<br/>
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)&nbsp;&nbsp;&nbsp;![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 
