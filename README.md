@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JAEHEE👩‍💻%20&fontSize=90)
 
 
-## TECH-STACKS🐾
+## TECH-STACKS🐾<br/><br/>
 
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)&nbsp;&nbsp;&nbsp;![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
